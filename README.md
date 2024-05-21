@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gozminion
-- 👀 I’m interested in ...unknow
+- 👀 I’m interested in ...unknown
 - 🌱 I’m currently learning ...git
 - 💞️ I’m looking to collaborate on ...nothing
 - 📫 How to reach me ...pls donts 
